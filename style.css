@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content:end;
+    background-color: rgb(114, 95, 95);
+    height: 7vh;
+}
+
+nav a {
+    padding: 0 2%;
+    text-decoration: none;
+    color: white;
+}
+
+nav a:hover {
+    color: rgb(27, 3, 3);
+}
